@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Challenge files
+vuln.c
+vuln
+chall.c
+chall
